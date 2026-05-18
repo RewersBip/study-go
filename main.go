@@ -7,7 +7,7 @@ import (
 
 func main() {
 	const IMTPower = 2
-	userHeight := 1.8
+	userHeight := 1.9
 	userKg := 100.0
 	IMT := userKg / math.Pow(userHeight, IMTPower)
 	fmt.Print(IMT)
