@@ -1,2 +1,0 @@
-# MY HOMEWORKS 2026 
-
